@@ -1,3 +1,7 @@
+Das Script wurde für die Version 12.2.1.2.0 getestet.
+Autor: Jürgen Menge
+
+
 Zur Verwendung sind folgende Hinweise zu beachten:
 
 (1)    Die Infrastruktur-Datenbank muss vorab gestartet werden, wenn der Admin Server verwendet werden soll. Der Start der DB ist nicht Teil des Scriptes.
