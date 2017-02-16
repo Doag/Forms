@@ -1,0 +1,18 @@
+WEBUTIL DEMO CHANGES
+----------------------
+
+o  February 2013
+Added comments for clarifcation
+
+o  January 2012
+Fixed upload/download db bug.  Incorrect table name referenced
+Added ReadMe comment explaining that C API demo not supported on x64 clients
+
+o  November 2010
+Added C API example to call Windows API
+Changed demo table name to wu_fileupdown_demo (script and form updated)
+Minor bug fixes
+Minor gui enhancements
+
+o  August 2005
+Initial release
