@@ -1,0 +1,17 @@
+registry.dat example:
+
+default.fontMap.defaultFontname=DIALOG
+default.fontMap.defaultSize=1000
+default.fontMap.defaultStyle=PLAIN
+default.fontMap.defaultWeight=BOLD
+
+colorScheme.demo.description=demo schema
+colorScheme.demo.lightest=0xFFFFFF
+colorScheme.demo.lighter=0xD7D7D7
+colorScheme.demo.light=0xB8B8B8
+colorScheme.demo.dark=0xC2C2C2
+colorScheme.demo.darker=0x5C5C5C
+colorScheme.demo.darkest=0x000000
+colorScheme.demo.selection=0x004080
+colorScheme.demo.pinstripe1=0xF5F5F5
+colorScheme.demo.pinstripe2=0xFFFFFF
