@@ -1,3 +1,5 @@
 Demo 0009
 
-Readme
+Friedhold Matz - fmatz.com@gmail.com
+
+Twitter: @FriedholdMatz
