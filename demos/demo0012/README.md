@@ -1,3 +1,6 @@
 Demo 0012
 
-Readme
+Mark Striekwold
+
+
+https://community.oracle.com/people/Mark+Striekwold

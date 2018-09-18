@@ -1,3 +1,7 @@
 Demo 0013
 
-Readme
+Francois Degrelle
+
+
+http://fdegrelle.over-blog.com/
+http://forms.pjc.bean.blog.free.fr/
